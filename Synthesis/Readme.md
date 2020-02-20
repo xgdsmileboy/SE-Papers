@@ -47,11 +47,15 @@
 
 	Kipf, Thomas N. adn Welling, Max
 
-13. __[Gated Graph Sequence Neural Networks](https://arxiv.org/abs/1511.05493)__, *[ICLR 2016]*
+13. __[Program Synthesis](https://www.nowpublishers.com/article/Details/PGL-010)__, *[Foundations and Trends in Programming Languages 2017]*
+
+	Gulwani, Sumit and Polozov, Oleksandr and Singh, Rishabh
+
+14. __[Gated Graph Sequence Neural Networks](https://arxiv.org/abs/1511.05493)__, *[ICLR 2016]*
 
 	Li, Yujia and Tarlow, Daniel and Brockschmidt, Marc and Zemel, Richard
 
-14. __[Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)__, *[ICLR 2016]*
+15. __[Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)__, *[ICLR 2016]*
 
 	Kipf, Thomas N. and Welling, Max
 
