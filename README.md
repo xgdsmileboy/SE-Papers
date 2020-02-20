@@ -12,7 +12,7 @@
 
   ```json
   {
-  	"title" : "title",
+    "title" : "title",
     "authors" : "Last Name, First Name and Last Name, First Name and ...",
     "url" : "https://",
     "conf" : "TSE/ICSE/...",
