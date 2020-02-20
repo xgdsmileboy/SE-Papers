@@ -20,3 +20,12 @@
     "keys" : []
   }
   ```
+
+
+
+###Other Recommended Resources :star::star::star::star::star:
+
+* [Machine Learning on Source Code](https://github.com/xgdsmileboy/awesome-machine-learning-on-source-code)
+* [Graph Neural Network](https://github.com/thunlp/GNNPapers)
+* [Machine Learning for SErs](https://github.com/ZuzooVn/machine-learning-for-software-engineers) 
+* [Deep Learning Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
