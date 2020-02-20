@@ -59,3 +59,7 @@
 
 	Kipf, Thomas N. and Welling, Max
 
+16. __[Inductive Programming: A Survey of Program Synthesis Techniques](https://doi.org/10.1007/978-3-642-11931-6_3)__, *[AAIP 2009]*
+
+	Kitzelmann, Emanuel
+
