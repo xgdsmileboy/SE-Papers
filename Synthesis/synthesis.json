@@ -1,0 +1,114 @@
+[
+  {
+    "title" : "Gated Graph Sequence Neural Networks",
+    "authors" : "Li, Yujia and Tarlow, Daniel and Brockschmidt, Marc and Zemel, Richard",
+    "url" : "https://arxiv.org/abs/1511.05493",
+    "conf" : "ICLR",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "Semi-Supervised Classification with Graph Convolutional Networks",
+    "authors" : "Kipf, Thomas N. and Welling, Max",
+    "url" : "https://arxiv.org/abs/1609.02907",
+    "conf" : "ICLR",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "Accelerating Search-Based Program Synthesis using Learned Probabilistic Models",
+    "authors" : "Lee, Woosuk and Heo, Kihong and Alur, Rajeev and Naik, Mayur",
+    "url" : "https://doi.org/10.1145/3296979.3192410",
+    "conf" : "PLDI",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Program Synthesis using Conflict-Driven Learning",
+    "authors" : "Feng, Yu and Martins, Ruben and Bastani, Osbert and Dillig, Isil",
+    "url" : "https://doi.org/10.1145/3296979.3192382",
+    "conf" : "PLDI",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Learning to Infer Graphics Programs from Hand-Drawn Images",
+    "authors" : "Ellis, Kevin and Ritchie, Daniel and Solar-Lezama, Armando and Tenenbaum, Josh",
+    "url" : "http://papers.nips.cc/paper/7845-learning-to-infer-graphics-programs-from-hand-drawn-images.pdf",
+    "conf" : "NIPS",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Neural Program Search: Solving Programming Tasks from Description and Examples",
+    "authors" : "Polosukhin, Illia and Skidanov, Alexander",
+    "url" : "http://arxiv.org/abs/1802.04335",
+    "conf" : "ICLR",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Coarse-to-Fine Decoding for Neural Semantic Parsing",
+    "authors" : "Dong, Li and Mirella Lapata",
+    "url" : "https://doi.org/10.18653/v1/P18-1068",
+    "conf" : "ACL",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Neural-Guided Deductive Search For Real-Time Program Synthesis from Examples",
+    "authors" : "Kalyan, Ashwin and Mohta, Abhishek and Polozov, Oleksandr and Batra, Dhruv and Jain, Prateek and Gulwani, Sumit",
+    "url" : "https://openreview.net/forum?id=rywDjg-RW",
+    "conf" : "ICLR",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Neural Sketch Learning for Conditional Program Generation",
+    "authors" : "Murali, Vijayaraghavan and Qi, Letao and Chaudhuri, Swarat and Jermaine, Chris",
+    "url" : "https://openreview.net/forum?id=HkfXMz-Ab",
+    "conf" : "ICLR",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Modeling Relational Data with Graph Convolutional Networks Peter Bloem",
+    "authors" : "Schlichtkrull, Michael and Kipf, Thomas N and Bloem, Peter and Van Den Berg, Rianne and Titov, Ivan and Welling, Max",
+    "url" : "https://arxiv.org/abs/1703.06103",
+    "conf" : "ESWC",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Learning to Represent Programs with Graphs",
+    "authors" : "Allamanis, Miltiadis and Brockschmidt, Marc and Khademi, Mahmoud",
+    "url" : "https://openreview.net/forum?id=BJOFETxR-",
+    "conf" : "ICLR",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Generative Code Modeling with Graphs",
+    "authors" : "Brockschmidt, Marc and Allamanis, Miltiadis and Gaunt, Alexander L. and Polozov, Oleksandr",
+    "url" : "https://openreview.net/forum?id=Bke4KsA5FX",
+    "conf" : "ICLR",
+    "year" : 2019,
+    "keys" : []
+  },
+  {
+    "title" : "Leveraging Constraint Logic Programming for Neural Guided Program Synthesis",
+    "authors" : "Zhang, Lisa and Rosenblatt, Gregory and Fetaya, Ethan and Liao, Renjie and Byrd, William E. and Urtasun, Raquel and Zemel, Richard",
+    "url" : "https://openreview.net/forum?id=HJIHtIJvz",
+    "conf" : "ICLR-Workshop",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Semi-Supervised Classification with Graph Convolutional Networks",
+    "authors" : "Kipf, Thomas N. adn Welling, Max",
+    "url" : "https://arxiv.org/abs/1609.02907",
+    "conf" : "ICLR",
+    "year" : 2017,
+    "keys" : []
+  }
+]

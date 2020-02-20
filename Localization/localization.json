@@ -1,0 +1,194 @@
+[
+  {
+    "title" : "An Empirical Study of Fault Localization Families and Their Combinations",
+    "authors" : "Zou, Daming and Liang, Jingjing and Xiong, Yingfei and Ernst, Michael D. and Zhang, Lu",
+    "url" : "https://doi.org/10.1109/TSE.2019.2892102",
+    "conf" : "TSE",
+    "year" : 2019,
+    "keys" : []
+  },
+  {
+    "title" : "FLUCCS: using code and change metrics to improve fault localization",
+    "authors" : "Sohn, Jeongju and Yoo, Shin",
+    "url" : "https://doi.org/10.1145/3092703.3092717",
+    "conf" : "ISSTA",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "Learning Likely Invariants to Explain Why a Program Fails",
+    "authors" : "Pham, Long H. and Sun, Jun and Thi, Ly Ly Tran and Wang, Jingyi and Peng, Xin",
+    "url" : "https://doi.org/10.1109/ICECCS.2017.12",
+    "conf" : "ICECCS",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "AntMiner: Mining More Bugs by Reducing Noise Interference",
+    "authors" : "Liang, Bin and Bian, Pan and Zhang, Yan and Shi, Wenchang and You, Wei and Cai, Yan",
+    "url" : "https://doi.org/10.1145/2884781.2884870",
+    "conf" : "ICSE",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "Automatically learning semantic features for defect prediction",
+    "authors" : "Wang, Song and Liu, Taiyue and Tan, Lin",
+    "url" : "https://doi.org/10.1145/2884781.2884804",
+    "conf" : "ICSE",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "A survey on software fault localization",
+    "authors" : "Wong, W. Eric and Gao, Ruizhi and Li, Yihao and Abreu, Rui and Wotawa, Franz",
+    "url" : "https://doi.org/10.1109/TSE.2016.2521368",
+    "conf" : "TSE",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "Metallaxis-FL: mutation-based fault localization",
+    "authors" : "Papadakis, Mike and Le Traon, Yves",
+    "url" : "https://doi.org/10.1002/stvr.1509",
+    "conf" : "STVR",
+    "year" : 2015,
+    "keys" : []
+  },
+  {
+    "title" : "CrashLocator: locating crashing faults based on crash stacks",
+    "authors" : "Wu, Rongxin and Zhang, Hongyu and Cheung, Shing-Chi and Kim, Sunghun",
+    "url" : "https://doi.org/10.1145/2610384.2610386",
+    "conf" : "ISSTA",
+    "year" : 2014,
+    "keys" : []
+  },
+  {
+    "title" : "Test Case Purification for Improving Fault Localization",
+    "authors" : "Xuan, Jifeng and Monperrus, Martin",
+    "url" : "https://doi.org/10.1145/2635868.2635906",
+    "conf" : "FSE",
+    "year" : 2014,
+    "keys" : []
+  },
+  {
+    "title" : "MIMIC: Locating and Understanding Bugs by Analyzing Mimicked Executions",
+    "authors" : "Zuddas, Daniele and Jin, Wei and Pastore, Fabrizio and Mariani, Leonardo and Orso, Alessandro",
+    "url" : "https://doi.org/10.1145/2642937.2643014",
+    "conf" : "ASE",
+    "year" : 2014,
+    "keys" : []
+  },
+  {
+    "title" : "Learning to combine multiple ranking metrics for fault localization",
+    "authors" : "Xuan, Jifeng and Monperrus, Martin",
+    "url" : "https://doi.org/10.1109/ICSME.2014.41",
+    "conf" : "ICSME",
+    "year" : 2014,
+    "keys" : []
+  },
+  {
+    "title" : "Boosting bug-report-oriented fault localization with segmentation and stack-trace analysis",
+    "authors" : "Wong, Chu-Pan and Xiong, Yingfei and Zhang, Hongyu and Hao, Dan and Zhang, Lu and Mei, Hong",
+    "url" : "https://doi.org/10.1109/ICSME.2014.40",
+    "conf" : "ICSME",
+    "year" : 2014,
+    "keys" : []
+  },
+  {
+    "title" : "Using mutants to locate \"unknown\" faults",
+    "authors" : "Papadakis, Mike and Le Traon, Yves",
+    "url" : "https://doi.org/10.1109/ICST.2012.159",
+    "conf" : "ICST",
+    "year" : 2012,
+    "keys" : []
+  },
+  {
+    "title" : "Interactive fault localization leveraging simple user feedback",
+    "authors" : "Gong, Liang and Lo, David and Jiang, Lingxiao and Zhang, Hongyu",
+    "url" : "https://doi.org/10.1109/ICSM.2012.6405255",
+    "conf" : "ICSM",
+    "year" : 2012,
+    "keys" : []
+  },
+  {
+    "title" : "Angelic debugging",
+    "authors" : "Chandra, Satish and Torlak, Emina and Barman, Shaon and Bodik, Rastislav",
+    "url" : "https://doi.org/10.1145/1985793.1985811",
+    "conf" : "ICSE",
+    "year" : 2012,
+    "keys" : []
+  },
+  {
+    "title" : "A survey on algorithmic debugging strategies",
+    "authors" : "Silva, Josep",
+    "url" : "https://doi.org/10.1016/j.advengsoft.2011.05.024",
+    "conf" : "Adv. Eng. Softw.",
+    "year" : 2011,
+    "keys" : []
+  },
+  {
+    "title" : "HOLMES : Effective Statistical Debugging via Efficient Path Profiling",
+    "authors" : "Chilimbi, Trishul M. and Liblit, Ben and Mehra, Krishna and Nori, Aditya V. and Vaswani, Kapil",
+    "url" : "https://doi.org/10.1109/ICSE.2009.5070506",
+    "conf" : "ICSE",
+    "year" : 2009,
+    "keys" : []
+  },
+  {
+    "title" : "HDD: Hierarchical Delta Debugging",
+    "authors" : "Misherghi, Ghassan and Su, Zhendong",
+    "url" : "https://doi.org/10.1145/1134285.1134307",
+    "conf" : "ICSE",
+    "year" : 2006,
+    "keys" : []
+  },
+  {
+    "title" : "Locating faults through automated predicate switching",
+    "authors" : "Zhang, Xiangyu and Gupta, Neelam and Gupta, Rajiv",
+    "url" : "https://doi.org/10.1145/1134285.1134324",
+    "conf" : "ICSE",
+    "year" : 2006,
+    "keys" : []
+  },
+  {
+    "title" : "An evaluation of similarity coefficients for software fault localization",
+    "authors" : "Abreu, Rui and Zoeteweij, Peter and Van Gemund, Arjan J.c.",
+    "url" : "https://doi.org/10.1109/PRDC.2006.18",
+    "conf" : "PRDC",
+    "year" : 2006,
+    "keys" : []
+  },
+  {
+    "title" : "Statistical debugging: A hypothesis testing-based approach",
+    "authors" : "Liu, Chao and Fei, Long and Yan, Xifeng and Han, Jiawei and Midkiff, S. P.",
+    "url" : "https://doi.org/10.1109/TSE.2006.105",
+    "conf" : "TSE",
+    "year" : 2006,
+    "keys" : []
+  },
+  {
+    "title" : "Pruning dynamic slices with confidence",
+    "authors" : "Zhang, Xiangyu and Gupta, Neelam and Gupta, Rajiv",
+    "url" : "https://doi.org/10.1145/1133981.1134002",
+    "conf" : "PLDI",
+    "year" : 2006,
+    "keys" : []
+  },
+  {
+    "title" : "Scalable statistical bug isolation",
+    "authors" : "Liblit, Ben and Naik, Mayur and Zheng, Alice X. and Aiken, Alex and Jordan, Michael I.",
+    "url" : "https://doi.org/10.1145/1065010.1065014",
+    "conf" : "PLDI",
+    "year" : 2005,
+    "keys" : []
+  },
+  {
+    "title" : "Isolating cause-effect chains from computer programs",
+    "authors" : "Zeller, Andreas",
+    "url" : "https://doi.org/10.1145/587051.587053",
+    "conf" : "FSE",
+    "year" : 2002,
+    "keys" : []
+  }
+]

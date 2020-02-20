@@ -1,0 +1,242 @@
+[
+  {
+    "title" : "Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs",
+    "authors" : "Xuan, Jifeng and Martinez, Matias and Demarco, Favio and Clément, Maxime and Monperrus, Martin",
+    "url" : "https://doi.org/10.1109/TSE.2016.2560811",
+    "conf" : "TSE",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "A systematic study of automated program repair: Fixing 55 out of 105 bugs for $8 each",
+    "authors" : "Le Goues, Claire and Dewey-Vogt, Michael and Forrest, Stephanie and Weimer, Westley",
+    "url" : "https://doi.org/10.1109/ICSE.2012.6227211",
+    "conf" : "ICSE",
+    "year" : 2012,
+    "keys" : []
+  },
+  {
+    "title" : "Identifying Patch Correctness in Test-Based Automatic Program Repair",
+    "authors" : "Xiong, Yingfei and Liu, Xinyuan and Zeng, Muhan and Zhang, Lu and Huang, Gang",
+    "url" : "https://doi.org/10.1145/3180155.3180182",
+    "conf" : "ICSE",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "An Analysis of the Search Spaces for Generate and Validate Patch Generation Systems",
+    "authors" : "Long, Fan and Rinard, Martin",
+    "url" : "https://doi.org/10.1145/2884781.2884872",
+    "conf" : "ICSE",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "Fixing Recurring Crash Bugs via Analyzing Q&A Sites",
+    "authors" : "Gao, Qing and Zhang, Hansheng and Wang, Jie and Xiong, Yingfei and Zhang, Lu and Mei, Hong",
+    "url" : "https://doi.org/10.1109/ASE.2015.81",
+    "conf" : "ASE",
+    "year" : 2015,
+    "keys" : []
+  },
+  {
+    "title" : "DirectFix: Looking for simple program repairs",
+    "authors" : "Mechtaev, Sergey and Yi, Jooyong and Roychoudhury, Abhik",
+    "url" : "https://doi.org/10.1109/ICSE.2015.63",
+    "conf" : "ICSE",
+    "year" : 2015,
+    "keys" : []
+  },
+  {
+    "title" : "Precise Condition Synthesis for Program Repair",
+    "authors" : "Xiong, Yingfei and Wang, Jie and Yan, Runfa and Zhang, Jiachen and Han, Shi and Huang, Gang and Zhang, Lu",
+    "url" : "https://doi.org/10.1109/ICSE.2017.45",
+    "conf" : "ICSE",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "Automatic patch generation learned from human-written patches",
+    "authors" : "Kim, Dongsun and Nam, Jaechang and Song, Jaewoo and Kim, Sunghun",
+    "url" : "https://doi.org/10.1109/ICSE.2013.6606626",
+    "conf" : "ICSE",
+    "year" : 2013,
+    "keys" : []
+  },
+  {
+    "title" : "Contract-Based Program Repair without the Contracts",
+    "authors" : "Chen, Liushan and Pei, Yu and Furia, Carlo A.",
+    "url" : "https://doi.org/10.1109/ASE.2017.8115674",
+    "conf" : "ASE",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "Automatic inference of code transforms for patch generation",
+    "authors" : "Long, Fan and Amidon, Peter and Rinard, Martin",
+    "url" : "https://doi.org/10.1145/3106237.3106253",
+    "conf" : "FSE",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "Angelix: Scalable Multiline Program Patch Synthesis via Symbolic Analysis",
+    "authors" : "Mechtaev, Sergey and Yi, Jooyong and Roychoudhury, Abhik",
+    "url" : "https://doi.org/10.1145/2884781.2884807",
+    "conf" : "ICSE",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "Progress on approaches to automatic program repair",
+    "authors" : "xuan, Jifeng and Ren, Zhilei and Wang, Ziyuan and Xie, Xiaoyuan and Jiang, He",
+    "url" : "http://www.jos.org.cn/1000-9825/4972.htm",
+    "conf" : "Journal of Software",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "Automatic Software Repair: A Survey",
+    "authors" : "Gazzola, Luca and Micucci, Daniela and Mariani, Leonardo",
+    "url" : "https://doi.org/10.1109/TSE.2017.2755013",
+    "conf" : "TSE",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "Context-Aware Patch Generation for Better Automated Program Repair",
+    "authors" : "Wen, Ming and Chen, Junjie and Wu, Rongxin and Hao, Dan and Cheung, Shing-Chi",
+    "url" : "https://doi.org/10.1145/3180155.3180233",
+    "conf" : "ICSE",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Automatic Software Repair : a Bibliography",
+    "authors" : "Monperrus, Martin",
+    "url" : "https://doi.org/10.1145/3105906",
+    "conf" : "Comput. Surv.",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Semantic Program Repair Using a Reference Implementation",
+    "authors" : "Mechtaev, Sergey and Nguyen, Manh-Dung and Noller, Yannic and Grunske, Lars and Roychoudhury, Abhik",
+    "url" : "https://doi.org/10.1145/3180155.3180247",
+    "conf" : "ICSE",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Test-equivalence Analysis for Automatic Patch Generation",
+    "authors" : "Mechtaev, Sergey and Gao, Xiang and Tan, Shin Hwei and Roychoudhury, Abhik",
+    "url" : "https://doi.org/10.1145/3241980",
+    "conf" : "Trans. Softw. Eng. Methodol.",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Safe memory-leak fixing for C programs",
+    "authors" : "Gao, Qing and Xiong, Yingfei and Mi, Yaqing and Zhang, Lu and Yang, Weikun and Zhou, Zhaoping and Xie, Bing and Mei, Hong",
+    "url" : "https://doi.org/10.1109/ICSE.2015.64",
+    "conf" : "ICSE",
+    "year" : 2015,
+    "keys" : []
+  },
+  {
+    "title" : "The strength of random search on automated program repair",
+    "authors" : "Qi, Yuhua and Mao, Xiaoguang and Lei, Yan and Dai, Ziying and Wang, Chengsong",
+    "url" : "https://doi.org/10.1145/2568225.2568254",
+    "conf" : "ICSE",
+    "year" : 2014,
+    "keys" : []
+  },
+  {
+    "title" : "SemFix : Program Repair via Semantic Analysis",
+    "authors" : "Nguyen, Hoang Duong Thien and Qi, Dawei and Roychoudhury, Abhik and Chandra, Satish",
+    "url" : "https://doi.org/10.1109/ICSE.2013.6606623",
+    "conf" : "ICSE",
+    "year" : 2013,
+    "keys" : []
+  },
+  {
+    "title" : "Automatic repair of real bugs in java: a large-scale experiment on the defects4j dataset",
+    "authors" : "Martinez, Matias and Durieux, Thomas and Sommerard, Romain and Xuan, Jifeng and Monperrus, Martin",
+    "url" : "https://doi.org/10.1007/s10664-016-9470-4",
+    "conf" : "Empirical Software Engineering",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "S3 : Syntax- and Semantic-Guided Repair Synthesis via Programming by Examples",
+    "authors" : "Le, Xuan-Bach D. and Chu, Duc-Hiep and Lo, David and Le Goues, Claire and Visser, Willem",
+    "url" : "https://doi.org/10.1145/3106237.3106309",
+    "conf" : "FSE",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "Automatic patch generation by learning correct code",
+    "authors" : "Long, Fan and Rinard, Martin",
+    "url" : "https://doi.org/10.1145/2837614.2837617",
+    "conf" : "POPL",
+    "year" : 2016,
+    "keys" : []
+  },
+  {
+    "title" : "ELIXIR : Effective Object-Oriented Program Repair",
+    "authors" : "Saha, Ripon K. and Lyu, Yingjun and Yoshida, Hiroaki and Prasad, Mukul R.",
+    "url" : "https://doi.org/10.1109/ASE.2017.8115675",
+    "conf" : "ASE",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "Shaping Program Repair Space with Existing Patches and Similar Code",
+    "authors" : "Jiang, Jiajun and Xiong, Yingfei and Zhang, Hongyu and Gao, Qing and Chen, Xiangqun",
+    "url" : "https://doi.org/10.1145/3213846.3213871",
+    "conf" : "ISSTA",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Staged Program Repair with Condition Synthesis",
+    "authors" : "Long, Fan and Rinard, Martin",
+    "url" : "https://doi.org/10.1145/2786805.2786811",
+    "conf" : "FSE",
+    "year" : 2015,
+    "keys" : []
+  },
+  {
+    "title" : "Towards Practical Program Repair with On-Demand Candidate Generation",
+    "authors" : "Hua, Jinru and Zhang, Mengshi and Wang, Kaiyuan and Khurshid, Sarfraz",
+    "url" : "https://doi.org/10.1145/3180155.3180245",
+    "conf" : "ICSE",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Practical Program Repair via Bytecode Mutation",
+    "authors" : "Ghanbari, Ali and Benton, Samuel and Zhang, Lingming",
+    "url" : "https://doi.org/10.1145/3293882.3330559",
+    "conf" : "ISSTA",
+    "year" : 2019,
+    "keys" : []
+  },
+  {
+    "title" : "Leveraging Syntax-Related Code for Automated Program Repair",
+    "authors" : "Xin, Qi and Reiss, Steven P.",
+    "url" : "https://doi.org/10.1109/ASE.2017.8115676",
+    "conf" : "ASE",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "Context-Aware Patch Generation for Better Automated Program Repair",
+    "authors" : "Wen, Ming and Chen, Junjie and Wu, Rongxin and Hao, Dan and Cheung, Shing-Chi",
+    "url" : "https://doi.org/10.1145/3180155.3180233",
+    "conf" : "ICSE",
+    "year" : 2018,
+    "keys" : []
+  }
+]
