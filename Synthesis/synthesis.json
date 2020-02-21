@@ -8,14 +8,6 @@
     "keys" : []
   },
   {
-    "title" : "Semi-Supervised Classification with Graph Convolutional Networks",
-    "authors" : "Kipf, Thomas N. and Welling, Max",
-    "url" : "https://arxiv.org/abs/1609.02907",
-    "conf" : "ICLR",
-    "year" : 2016,
-    "keys" : []
-  },
-  {
     "title" : "Accelerating Search-Based Program Synthesis using Learned Probabilistic Models",
     "authors" : "Lee, Woosuk and Heo, Kihong and Alur, Rajeev and Naik, Mayur",
     "url" : "https://doi.org/10.1145/3296979.3192410",
@@ -125,6 +117,38 @@
     "url" : "https://doi.org/10.1007/978-3-642-11931-6_3",
     "conf" : "AAIP",
     "year" : 2009,
+    "keys" : []
+  },
+  {
+    "title" : "Program synthesis using abstraction refinement",
+    "authors" : "Wang, Xinyu and Dillig, Isil and Singh, Rishabh",
+    "url" : "https://doi.org/10.1145/3158151",
+    "conf" : "POPL",
+    "year" : 2018,
+    "keys" : []
+  },
+  {
+    "title" : "Scaling Enumerative Program Synthesis via Divide and Conquer",
+    "authors" : "Alur, Rajeev and Radhakrishna, Arjun and Udupa, Abhishek",
+    "url" : "https://doi.org/10.1007/978-3-662-54577-5_18",
+    "conf" : "TACAS",
+    "year" : 2017,
+    "keys" : []
+  },
+  {
+    "title" : "FlashMeta: a framework for inductive program synthesis",
+    "authors" : "Polozov, Oleksandr and Gulwani, Sumit",
+    "url" : "https://doi.org/10.1145/2814270.2814310",
+    "conf" : "OOPSLA",
+    "year" : 2015,
+    "keys" : []
+  },
+  {
+    "title" : "Automating string processing in spreadsheets using input-output examples",
+    "authors" : "Gulwani, Sumit",
+    "url" : "https://doi.org/10.1145/1926385.1926423",
+    "conf" : "POPL",
+    "year" : 2011,
     "keys" : []
   }
 ]

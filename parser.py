@@ -25,9 +25,9 @@ def by_date(json_array, header, target_file):
 		f.write(header)
 		for item in json_array:
 			if item['url'] == "":
-				f.write(u'%d. __%s__, *[%s %d]*\n\n' % (id, item['title'], item['conf'], item['year']))
+				f.write(u'%d. __%s__, *[%s __%d__]*\n\n' % (id, item['title'], item['conf'], item['year']))
 			else:
-				f.write(u'%d. __[%s](%s)__, *[%s %d]*\n\n' % (id, item['title'], item['url'], item['conf'], item['year']))
+				f.write(u'%d. __[%s](%s)__, *[%s __%d__]*\n\n' % (id, item['title'], item['url'], item['conf'], item['year']))
 			f.write(u'\t%s\n\n' % item['authors'])
 			id = id + 1
 
