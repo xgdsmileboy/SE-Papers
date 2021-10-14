@@ -33,3 +33,6 @@
 
 ### Open-source machine learning algorithm :star::star::star:
 * [MachineLearning](https://github.com/MachineLeanring)
+
+### Explainable AI :star::star::star:
+* [Explainable AI Book](https://github.com/xai4se/xai4se.github.io)
